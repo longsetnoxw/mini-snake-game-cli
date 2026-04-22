@@ -1,2 +1,13 @@
-# mini-snake-game-cli
-A simple snake game project
+# Snake Game
+
+Classic snake game in Python using curses.
+
+
+
+## Run
+
+```
+python snake.py
+```
+
+Use arrow keys to move. Press 'q' to quit.
